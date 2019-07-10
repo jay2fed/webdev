@@ -1,0 +1,34 @@
+<html>
+<body>
+
+<h2>Basic HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jalen</td>
+    <td>Butler</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>josh</td>
+    <td>smith</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td>Chris</td>
+    <td>Doe</td>
+    <td>12</td>
+  </tr>
+</table>
+<ul>
+  <li>Coffee</li>
+  <li>soda</li>
+  <li>slushe</li>
+</ul>  
+</body>
+</html>
